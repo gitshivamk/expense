@@ -1,0 +1,51 @@
+#banner_image{
+    padding-top: 110px;
+    padding-bottom: 180px;
+    text-align: center;
+    color: #f8f8f8;
+    background:url("img/banner.jpg") no-repeat center ;
+    background-size: cover;
+}
+
+#banner_content{
+    position: relative;
+    padding-top: 3%;
+    padding-bottom: 3%;
+    margin-top: 6%;
+    margin-bottom: 5%;
+    margin-left: 15%;
+    margin-right: 15%;
+    background-color: rgba(0, 0, 0, 0.5);
+    max-width: 900px;
+    height: 280px;
+}
+
+footer{
+    padding: 10px 0;
+    background-color: #101010;
+    color:#9d9d9d;
+    bottom: 0;
+    width: 100%;
+}
+
+
+
+.form-group{
+    margin-left:10px;
+}
+
+.login_panel{
+    margin:170px 500px;
+}
+
+.text{
+    margin-top:120px;
+    margin-bottom: 180px;
+    padding-top: 20px;
+    padding-bottom: 40px;
+}
+
+.btn-default:hover{
+    background-color: green;
+    color: white;
+}
